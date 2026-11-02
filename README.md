@@ -36,7 +36,7 @@ The website contains the following pages:
 | enquiry.html | Allows visitors to complete an adoption enquiry form. |
 | contact.html | Provides contact information and a contact form. |
 | privacy.html | Explains how visitors' personal information should be handled. |
-| 404.html | Displays a message when a requested page cannot be found. |
+
 
 ## 4. Technologies Used
 
